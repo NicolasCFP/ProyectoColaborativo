@@ -1,2 +1,2 @@
 # ProyectoColaborativo
-Este es el archivo README.md para el hito
+Este es el archivo README.md para el hito (EDITADO)
